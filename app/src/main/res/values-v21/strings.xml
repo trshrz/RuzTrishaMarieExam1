@@ -1,2 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_name">RuzTrishaMarieExam1</string>
+    <string name="i_ve_got_way_too_much_time_to_be_this_hurt_somebody_help_it_s_getting_worse_no_one_even_has_to_know_i_m_dealing_with_it_on_my_own">I\'ve got way too much time to be this hurt Somebody help it\'s getting worse No one even has to know i\'m dealing with it on my own</string>
+    <string name="she_will_be_loved">She Will Be Loved</string>
+    <string name="note_2">Note 2</string>
+    <string name="malibu_nights">Malibu Nights</string>
+    <string name="note_1">Note 1</string>
+    <string name="maroon_5">Maroon 5</string>
+    <string name="personal_notes">Personal Notes</string>
+    <string name="audi">TODO</string>
+    <string name="office_notes">Office Notes</string>
+    <string name="public_notes">Public Notes</string>
+    <string name="social">TODO</string>
+    <string name="travel">travel</string>
+    <string name="city">city</string>
+    <string name="lany">TODO</string>
+
+</resources>
